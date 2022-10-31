@@ -13,7 +13,6 @@ public class main {
 		
 		System.out.println("Current Floor is 5"); 
 
-       
 		System.out.println("Enter destination Floor: (0 to 10):"); 
 
 		 int dest_floor = in.nextInt(); 
@@ -28,5 +27,4 @@ public class main {
 	}
 	
 	
-
 }
